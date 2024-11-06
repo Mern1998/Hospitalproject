@@ -1,0 +1,24 @@
+@media screen ,(max-width: 768px) {
+    .col-sm-5, .col-sm-6 {
+      padding-left: 0; /* Remove left padding for smaller screens */
+      margin-top: 0; /* Remove top margin for smaller screens */
+    }
+  
+    .col-sm-5 img {
+      height: auto; /* Make image responsive */
+      width: 100%; /* Image takes full width */
+    }
+  
+    .col-sm-6 {
+      padding-left: 30px; /* Remove left padding for smaller screens */
+      margin-top: 20px; /* Adjust top margin for smaller screens */
+    }
+  
+    .accordion-header {
+      font-size: 16px; /* Adjust font size for accordion headers */
+    }
+  
+    .accordion-body {
+      font-size: 14px; /* Adjust font size for accordion content */
+    }
+  }

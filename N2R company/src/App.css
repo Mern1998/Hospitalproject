@@ -1,0 +1,61 @@
+/* 
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.parrent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+.justify-content-center {
+  list-style-type: none;
+  display: flex;
+}
+.justify-content-center li a {
+  margin-right: 20px;
+  font-weight: bold;
+  text-decoration: none;
+
+}
+.d-grid gap-2 d-md-flex justify-content-md-end {
+  margin-left: auto;
+}
+
+.btn-primary me-md-2,
+.btn-primary{
+  margin: 10px 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #0e120e;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.nav-link{
+   color: #0e120e;
+}
+.justify-content-center{
+   margin-left: 500px;
+   gap: 20px;
+}
+ */
+.bg{
+  background-size: cover;
+  height: 600px;
+  width: 100%;
+}
+
+
+/* card in css code  */
+
+svg{
+  border: 1px solid black;
+  background-color: black;
+  padding: 4px;
+  height: 55px;
+  width: 55px;
+}

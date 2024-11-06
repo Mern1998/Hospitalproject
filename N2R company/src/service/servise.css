@@ -1,0 +1,20 @@
+#cnt {
+    margin-bottom: 10px;
+  }
+  
+  #rw{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: -147px;
+  }
+  .profile{
+    padding-left: 72px;
+    margin-top: -65px;
+  }
+  
+  @media (max-width: 848px) {
+    .col-sm-6 {
+      max-width: 100%;
+    }
+  }
+  
